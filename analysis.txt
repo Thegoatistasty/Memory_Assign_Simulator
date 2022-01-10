@@ -1,0 +1,4 @@
+Process:A, Effective Access Time:184.758
+Process:A, Page Fault Rate:0.892
+Process:B, Effective Access Time:183.709
+Process:B, Page Fault Rate:0.856
